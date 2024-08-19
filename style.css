@@ -1,0 +1,410 @@
+
+
+
+/* narbar */
+
+#img1{
+    margin-top: -1%;
+    margin-left: 3%;
+}
+
+
+.sec1{
+    background-image: url(./image/70390547_2414532862154998_8934043089673125888_n.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1517px;
+    height: 700px;
+    color: white;
+}
+.df{
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
+
+.nav2 ul{
+    
+   margin-left: 30%;
+    margin-top: -3%;
+    justify-content: space-around;
+}
+
+.nav2 ul li{
+    margin: 11px;
+   
+}
+.nav2 ul li:hover{
+   
+   cursor: pointer;
+}
+
+.nav2  {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
+/* .nav2 :hover{
+    background-color: white;
+    color: black;
+} */
+/* text section */
+
+
+.header h1{
+    font-size: 350%;
+    font-family: "Oswald", sans-serif;
+}
+
+.header{
+    margin-left: 16%;
+    margin-top: 10%;
+    
+}
+
+.header h5{
+    margin: 1px;
+}
+
+.header button{
+
+    margin-top: 2%;
+    width: 10%;
+}
+
+/* box section */
+
+#box1{
+    height: 150px;
+    text-align: center;
+    display: flex;
+   
+}
+#box1 input{
+    width: 25%;
+    height: 50px;
+    
+}
+#box1 button{
+    width: 10%;
+    height: 50px;
+    background-color: orangered;
+    
+}
+#box1 h4{
+    color: white;
+    /* */
+    margin-left: 10%;
+}
+
+/* poster */
+.posters{
+ margin-top: 5%;
+ text-align: center;
+}
+
+/* contries */
+.contries{
+    background-color: whitesmoke;
+}
+
+.contries h1{
+    font-family: "Oswald", sans-serif; 
+    margin-top: 8%;
+    font-size: 60px;
+}
+
+
+
+.col2 h1{
+   
+margin-top: 55%;
+    text-align: center;
+    color: rgb(230, 220, 220);
+    font-family: "Oswald", sans-serif; 
+}
+
+.col2:hover{
+    scale: 1.05;
+    
+}
+.col2{
+background-image: url(https://cdn.britannica.com/02/188402-050-41E917B3/Krak-des-Chevaliers-west-Crusader-Syria-Hims.jpg);
+background-size: cover;
+object-fit:fill;
+    height: 450px;
+    width: 370px;
+    margin: 6px;
+    transition: .5s;
+}
+
+.but{
+   
+    font-family: "Oswald", sans-serif; 
+    background-color: rgb(17, 113, 60);
+    width: 250px;
+ height: 50px;
+ margin-left: 43%;
+ color: white;
+ font-size: 130%;
+    
+   
+    
+}
+
+.but:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+/* EXPEDITIONS */
+
+.expidition{
+    font-family: "Oswald", sans-serif;
+    margin-top: 10%;
+}
+.ex1{
+    margin-left:13%;
+}
+
+.ex1 h1{
+    font-size: 60px;
+}
+ .ex1 p{
+    font-size: 150%;
+ }
+
+ .ex1 input{
+    color: white;
+ font-size: 130%;
+ font-family: "Oswald", sans-serif; 
+ background-color: rgb(17, 113, 60);
+ width: 250px;
+height: 50px;
+ }
+
+ .ex1 input:hover{
+    text-decoration: underline;
+ }
+
+ #ex2{
+    margin-left: 50%;
+    margin-top: -35%;
+    
+ }
+
+ #ex2 img{
+    border-radius: 6%;
+ }
+
+ /*browes  */
+ .browes{
+    background-color: whitesmoke;
+    margin-top: 15%;
+    font-family: "Oswald", sans-serif; 
+ }
+
+ .bre1{
+    text-align: center;
+ }
+ .col3{
+    background-size: cover;
+object-fit:fill;
+    height: 400px;
+    width: 500px;
+    margin: 4px;
+    transition: .5s;
+    
+ }
+ .col3:hover{
+    scale: 1.05;
+    overflow: hidden;
+ }
+
+ .col3 h3{
+    margin-top: 74%;
+    margin-right: 56%;
+    color: white;
+ }
+
+ /* join */
+
+
+#joi1{
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 10%;
+}
+ 
+#joi1 input{
+    width: 400px;
+    height: 50px;
+}
+
+#joi1 button{
+    background-color:orangered;
+   height: 50px;
+   width: 120px;
+   border-radius: 5%;
+   color: white;
+}
+
+/* last post */
+
+.lstpost{
+    background-color: whitesmoke;
+    margin-top: 8%;
+}
+
+.lstpost h1{
+    font-family: "Oswald", sans-serif; 
+    font-size: 60px;
+   
+}
+
+.col4{
+    background-size: cover;
+object-fit:fill;
+    height: 400px;
+    width: 500px;
+     margin: 4px; 
+     transition: .5s;
+    
+ }
+ .col4:hover{
+    scale: 1.05;
+ }
+
+ .col4 h3{
+  margin-top: 74%;
+    margin-right: 13%;
+    color: white;
+ }
+ .col5 h3{
+  margin-top: 74%;
+    margin-right: 2%;
+    color: white;
+ }
+
+
+ .col5{
+    background-size: cover;
+object-fit:fill;
+    height: 400px;
+    width: 500px;
+     margin: 4px; 
+     transition: .5s;
+    
+ }
+ .col5:hover{
+    scale: 1.05;
+ }
+
+ #h32{
+    margin-top: 68%;
+    margin-right: 2%;
+    color: white;
+ }
+ .lst button{
+    width: 160px;
+    text-align: center;
+    height: 60px;
+    background-color: rgb(17, 113, 60);
+    color: white;
+ }
+
+ /* travel tips */
+
+ .tips{
+    margin-top: 8%;
+    background-color: whitesmoke;
+    font-family: "Oswald", sans-serif; 
+ }
+
+ .tips h1{
+    font-size: 60px;
+ }
+
+ .col6{
+    background-size: cover;
+    object-fit:fill;
+        height: 400px;
+        width: 500px;
+         margin: 4px; 
+         transition: .5s;
+ }
+
+ .col6 h3{
+    margin-top: 74%;
+    margin-right: 2%;
+    color: white;
+ }
+ 
+ .col6:hover{
+    scale: 1.05;
+ }
+
+ /* footer */
+
+ .footer{
+    background-color: rgb(14, 84, 14);
+    height: 450px;
+    color: white;
+ }
+
+ .imag4{
+    margin-left: 8%;
+ }
+ .imag4 a{
+    margin: 15px;
+    font-size: 30px;
+ }
+
+ .about h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+ }
+ .about p{
+    font-size: 20px;
+ }
+
+ .about{
+    margin-left: 31%;
+    margin-top: -12%;
+ }
+ .quick h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+ }
+ .quick p{
+    font-size: 20px;
+ }
+
+ .quick{
+    margin-left: 55%;
+    margin-top: -22%;
+ }
+ .dest h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+ }
+ .dest p{
+    font-size: 20px;
+ }
+
+ .dest{
+    margin-left: 75%;
+    margin-top: -22%;
+ }
+
+ .scrollbtn{
+    background-color: rgb(17, 113, 60);
+    color: white;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-left: 95%;
+    width: 44px;
+    position: sticky;
+    bottom: 0;
+ }
